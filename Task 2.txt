@@ -1,0 +1,8 @@
+Perintah command line Day 1 :
+1. mkdir : berfungsi untuk membuat direktori baru
+2. cd : berfungsi untuk berpindah direktori
+3. del : berfungsi untuk menghapus file pada direktori tertentu.
+4. rmdir : berfungsi untuk menghapus direktori atau file  kosong
+5. (menulis nama disk{c:, d:, e:, f:}) : langsung berpindah disk ke disk yang di tulis.
+6. echo : berfungsi untuk menmapilkan text atau variabel pada terminal atau mencetak output pada file.
+7. New-Item -Path <nama file> -ItemType <tipe file> : beerfungsi untuk membuat file.

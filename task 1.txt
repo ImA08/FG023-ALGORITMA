@@ -1,0 +1,8 @@
+Perbedaan antara GUI dan CLI :
+1. GUI merupakan kependekan dari Graphic User Interface, yang merupakan antarmuka pengguna dengan menggunakan graphic atau visual.
+2. GUI menggunakan visual untuk menjembatani interaksi antara user dan komputer.
+3. GUI lebih user friendly, yaitu memudahkan user untuk mengoperasikan program sederhana pada komputer, namun tingkat efisiensi dan optimal nya kurang dibandingkan dengan CLI.
+4. CLI atau Command Line Interface merupakan antar pengguna yang digunakan user dengan menjalankan command line, atau perintah pada terrminal.
+5. CLI menggunakan perintah command line untuk interaksi antara user dan komputer.
+6. CLI tidak user friendly, sulit digunakan bagi user komputer yang awam.
+7. Pengoperasian program atau aplikasi lebih flexibel dengan menggunakan CLI, dan lebih efisien serta lebih optimal.
