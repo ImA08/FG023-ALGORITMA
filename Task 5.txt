@@ -1,11 +1,12 @@
 Menghitung Potongan Harga
 1. Mulai.
-2. Tentukan total pembelian pembeli.
-3. Hitung diskon pembeli.
-    a. Jika total pembelian kurang dari 500.000, maka diskon yang di dapat adalah 0%;
-    b. Jika total pembelian mulai dari 500.000 hingga dengan 1juta, maka diskon yang di dapat adalah 5%;
-    c. Jika total pembelian lebih dari 1 juta, maka diskon yang didapat adalah 10%;
-4. Hitung total diskon, yaitu total pembelian di kali dengan nilai diskon yang didapat.
-5. Hitung total bayar, yaitu total pembelian di kurangi dengan total diskon.
-6. Tampilakn total bayar pembeli.
-7. Selesai.
+2. Tentukan variabel, total peembelian(buy), total bayar(total), diskon(discount)
+3. Inputkan total pembelian(buy) pembeli.
+4. Validasi apakah buy merupakan tipe data integer.
+5. Tentukan diskon pembeli.
+    a. Jika total pembelian kurang dari 500.000, maka discount yang di dapat adalah 0%;
+    b. Jika total pembelian mulai dari 500.000 hingga dengan 1juta, maka discount yang di dapat adalah 5%;
+    c. Jika total pembelian lebih dari 1 juta, maka discount yang didapat adalah 10%;
+6. Hitung total bayar, yaitu total pembelian di kurangi dengan total pembelian di kali diskon(total = buy - (buy x discount).
+7. Tampilakn total bayar(total) pembeli.
+8. Selesai.
